@@ -34,7 +34,7 @@ Autodesk Fusion 360.
 
 ## Example
 
-You can view built example [here](img/build-example).
+You can find built examples [here](https://www.thingiverse.com/thing:3674960).
 
 
 ## Built With
