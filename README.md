@@ -1,4 +1,4 @@
-# Parametrized Case for Power Supply
+# Case for Power Supply
 
 
 ## Description
@@ -44,8 +44,7 @@ You can find built examples [here](https://www.thingiverse.com/thing:3674960).
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull 
-requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 
 ## Versioning
@@ -67,4 +66,4 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
